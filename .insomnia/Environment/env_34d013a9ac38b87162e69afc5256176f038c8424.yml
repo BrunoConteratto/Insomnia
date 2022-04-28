@@ -1,0 +1,26 @@
+_id: env_34d013a9ac38b87162e69afc5256176f038c8424
+type: Environment
+parentId: wrk_866fbbe0d9094931aa3f94310ef01767
+modified: 1631485242376
+created: 1631479976032
+name: Base Environment
+data:
+  email: brunoconteratto.alt346@gmail.com
+  protocol: https://
+  host: sandbox.api.pagseguro.com
+  hostPix: secure.sandbox.api.pagseguro.com
+  hostNotify: ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications
+  token: F3E675E7F68644E394DDEC53B92684E1
+  tokenPix: ""
+dataPropertyOrder:
+  "&":
+    - email
+    - protocol
+    - host
+    - hostPix
+    - hostNotify
+    - token
+    - tokenPix
+color: null
+isPrivate: false
+metaSortKey: 1631479976032
